@@ -10,6 +10,10 @@ a {
   color: black;
 }
 
+.description a {
+  color: rgb(48, 129, 243);
+}
+
 ::-webkit-scrollbar {
   width: 0px;
   height: 5px;
